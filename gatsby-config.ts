@@ -9,7 +9,7 @@ const config: GatsbyConfig = {
     siteTitle: `potfolio`,
     siteTitleAlt: `Portfolio`,
     siteHeadline: `Developer portfolio`,
-    siteUrl: ``,
+    siteUrl: `https://github.com/Shravan-Parikh/personal-portfolio`,
     siteDescription: `potfolio`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
